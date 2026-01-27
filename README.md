@@ -44,11 +44,11 @@
 
 ### ⚡ About Me
 
-- 🔭 I’m currently working on **[CURRENT_PROJECT]**
-- 🌱 I’m currently learning **[NEW_TECHNOLOGY]**
-- 💬 Ask me about **[YOUR_EXPERTISE]**
-- 📫 How to reach me: **[YOUR_EMAIL]**
-- ⚡ Fun fact: **[FUN_FACT]**
+- 🔭 I’m currently working on **multiple projects using Claude Code, running multi-agent “multi-clauding” workflows across parallel Claude agents**
+- 🌱 I’m currently learning **AI agent orchestration (multi-agent task decomposition, tool-use workflows, and reliability patterns)**
+- 💬 Ask me about **SRE / incident & change management, Kubernetes + Cloud (GCP/AWS/Azure), observability (Grafana/Splunk), and automation to reduce toil**
+- 📫 How to reach me: **shaunstanislaus@gmail.com**
+- ⚡ Fun fact: **I can play the piano by ear**
 
 ---
 
