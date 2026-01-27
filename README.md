@@ -56,35 +56,59 @@
 
 <div align="center">
 
-  <!-- Blockchain -->
+  <!-- Cloud Platforms -->
 
-<b>Blockchain</b><br/>
+<b>Cloud Platforms</b><br/>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,openshift&theme=dark" />
 </a>
 <br/>
 
-  <!-- Backend & Database -->
+  <!-- Operating Systems -->
 
-<b>Backend & Database</b><br/>
+<b>Operating Systems</b><br/>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres,redis,java,spring,go,php,mysql,elasticsearch,kafka&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash&theme=dark" />
 </a>
 <br/>
 
-  <!-- Frontend & Mobile -->
+  <!-- Programming Languages -->
 
-<b>Frontend & Mobile</b><br/>
+<b>Programming Languages</b><br/>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite,expo&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,ruby,java,go,php,solidity,html,css&theme=dark" />
 </a>
 <br/>
 
-  <!-- DevOps, Testing & Security -->
+  <!-- Frameworks & Libraries -->
 
-<b>DevOps, Testing & Security</b><br/>
+<b>Frameworks & Libraries</b><br/>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,openshift,terraform,ansible,jenkins,gitlab,githubactions,circleci,sentry,vitest,selenium,playwright,linux,bash,grafana,prometheus,splunk&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,django,flask,rails,spring,tailwind,vite,expo&theme=dark" />
+</a>
+<br/>
+
+  <!-- Databases & Messaging -->
+
+<b>Databases & Messaging</b><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,kafka,prisma&theme=dark" />
+</a>
+<br/>
+
+  <!-- DevOps & Tools -->
+
+<b>DevOps & Tools</b><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,circleci,grafana,prometheus,splunk,sentry&theme=dark" />
+</a>
+<br/>
+
+  <!-- Testing -->
+
+<b>Testing</b><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vitest,selenium,playwright,jest&theme=dark" />
 </a>
 
 </div>
