@@ -59,57 +59,87 @@
   <!-- Cloud Platforms -->
 
 <b>Cloud Platforms</b><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,openshift&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="Amazon Web Services" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" title="Microsoft Azure" alt="Azure"/>
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="Google Cloud Platform" alt="GCP"/>
+<img src="https://skillicons.dev/icons?i=openshift&theme=dark" title="Red Hat OpenShift" alt="OpenShift"/>
 <br/>
 
   <!-- Operating Systems -->
 
 <b>Operating Systems</b><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" title="Ubuntu" alt="Ubuntu"/>
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash / Shell" alt="Bash"/>
 <br/>
 
   <!-- Programming Languages -->
 
 <b>Programming Languages</b><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,python,ruby,java,go,php,solidity,html,css&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JS"/>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TS"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=ruby&theme=dark" title="Ruby" alt="Ruby"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=go&theme=dark" title="Go (Golang)" alt="Go"/>
+<img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP"/>
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" title="Solidity" alt="Solidity"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS"/>
 <br/>
 
   <!-- Frameworks & Libraries -->
 
 <b>Frameworks & Libraries</b><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,django,flask,rails,spring,tailwind,vite,expo&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React"/>
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" title="Vue.js" alt="Vue"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="NextJS"/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="NodeJS"/>
+<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" alt="Express"/>
+<img src="https://skillicons.dev/icons?i=django&theme=dark" title="Django" alt="Django"/>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" alt="Flask"/>
+<img src="https://skillicons.dev/icons?i=rails&theme=dark" title="Ruby on Rails" alt="Rails"/>
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind"/>
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite"/>
+<img src="https://skillicons.dev/icons?i=expo&theme=dark" title="Expo" alt="Expo"/>
 <br/>
 
   <!-- Databases & Messaging -->
 
 <b>Databases & Messaging</b><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,kafka,prisma&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="Postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis"/>
+<img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" title="Elasticsearch" alt="Elastic"/>
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" title="Apache Kafka" alt="Kafka"/>
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma ORM" alt="Prisma"/>
 <br/>
 
   <!-- DevOps & Tools -->
 
 <b>DevOps & Tools</b><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,circleci,grafana,prometheus,splunk,sentry&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" title="Kubernetes" alt="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" title="Terraform" alt="Terraform"/>
+<img src="https://skillicons.dev/icons?i=ansible&theme=dark" title="Ansible" alt="Ansible"/>
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" title="Jenkins" alt="Jenkins"/>
+<img src="https://skillicons.dev/icons?i=gitlab&theme=dark" title="GitLab" alt="GitLab"/>
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="Actions"/>
+<img src="https://skillicons.dev/icons?i=circleci&theme=dark" title="CircleCI" alt="CircleCI"/>
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" title="Grafana" alt="Grafana"/>
+<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" title="Prometheus" alt="Prometheus"/>
+<img src="https://skillicons.dev/icons?i=splunk&theme=dark" title="Splunk" alt="Splunk"/>
+<img src="https://skillicons.dev/icons?i=sentry&theme=dark" title="Sentry" alt="Sentry"/>
 <br/>
 
   <!-- Testing -->
 
 <b>Testing</b><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vitest,selenium,playwright,jest&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=vitest&theme=dark" title="Vitest" alt="Vitest"/>
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" title="Selenium" alt="Selenium"/>
+<img src="https://skillicons.dev/icons?i=playwright&theme=dark" title="Playwright" alt="Playwright"/>
+<img src="https://skillicons.dev/icons?i=jest&theme=dark" title="Jest" alt="Jest"/>
 
 </div>
 
