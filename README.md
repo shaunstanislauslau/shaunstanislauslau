@@ -73,10 +73,7 @@
 </div>
 
 <!-- Daily.dev Card (Optional - Remove if not used) -->
-<!--
+<!-- Daily.dev Card -->
 <div align="center">
-  <a href="https://app.daily.dev/[YOUR_DAILY_DEV_USERNAME]">
-    <img src="https://api.daily.dev/devcards/v2/[YOUR_DAILY_DEV_ID]?type=wide&r=yes" width="600" alt="Daily.dev Card" />
-  </a>
+  <a href="https://app.daily.dev/shaunstanislaus"><img src="https://api.daily.dev/devcards/v2/zB1O21SgmYY9r2pPx3QOF.png?type=default&r=cda" width="356" alt="Shaun Stanislaus's Dev Card"/></a>
 </div>
--->
