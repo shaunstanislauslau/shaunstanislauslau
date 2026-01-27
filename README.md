@@ -1,0 +1,82 @@
+<!--
+  Hi there! 👋 This is a generated GitHub Profile README.
+  To make this work for you, please replace the placeholders (e.g., [YOUR_ROLE_1]) with your actual details.
+-->
+
+<div align="center">
+
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Shaun;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <!-- Social Badges -->
+  <p>
+    <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://[YOUR_PORTFOLIO_URL]">
+      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+    </a>
+    <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### ⚡ About Me
+
+- 🔭 I’m currently working on **[CURRENT_PROJECT]**
+- 🌱 I’m currently learning **[NEW_TECHNOLOGY]**
+- 💬 Ask me about **[YOUR_EXPERTISE]**
+- 📫 How to reach me: **[YOUR_EMAIL]**
+- ⚡ Fun fact: **[FUN_FACT]**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <!-- Skill Icons: Add or remove skills from the list below -->
+  <!-- Check https://skillicons.dev/ for valid skill names -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,docker,git,github,vscode,figma&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaunstanislauslau&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
+  </a>
+  
+  <!-- GitHub Readme Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunstanislauslau&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+  </a>
+
+</div>
+
+<div align="center">
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunstanislauslau&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </a>
+</div>
+
+<!-- Daily.dev Card (Optional - Remove if not used) -->
+<!--
+<div align="center">
+  <a href="https://app.daily.dev/[YOUR_DAILY_DEV_USERNAME]">
+    <img src="https://api.daily.dev/devcards/v2/[YOUR_DAILY_DEV_ID]?type=wide&r=yes" width="600" alt="Daily.dev Card" />
+  </a>
+</div>
+-->
