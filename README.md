@@ -140,6 +140,14 @@
 <img src="https://skillicons.dev/icons?i=selenium&theme=dark" title="Selenium" alt="Selenium"/>
 <img src="https://skillicons.dev/icons?i=playwright&theme=dark" title="Playwright" alt="Playwright"/>
 <img src="https://skillicons.dev/icons?i=jest&theme=dark" title="Jest" alt="Jest"/>
+<br/>
+
+  <!-- Editors & Terminals -->
+
+<b>Editors & Terminals</b><br/>
+<img src="https://skillicons.dev/icons?i=vim&theme=dark" title="Vim" alt="Vim"/>
+<img src="https://skillicons.dev/icons?i=neovim&theme=dark" title="Neovim" alt="Neovim"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VSCode"/>
 
 </div>
 
