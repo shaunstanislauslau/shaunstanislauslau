@@ -55,15 +55,38 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <!-- Cloud & Infrastructure -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,ubuntu,docker,kubernetes,openshift,terraform,ansible,jenkins,gitlab,circleci&theme=dark" />
-  </a>
-  <br/>
-  <!-- Languages & Frameworks -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,django,flask,ruby,rails,java,spring,go,php,html,css,bash,mysql,postgres,redis,kafka,elasticsearch,grafana,prometheus,splunk&theme=dark" />
-  </a>
+
+  <!-- Blockchain -->
+
+<b>Blockchain</b><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat&theme=dark" />
+</a>
+<br/>
+
+  <!-- Backend & Database -->
+
+<b>Backend & Database</b><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,prisma,postgres,redis,java,spring,go,php,mysql,elasticsearch,kafka&theme=dark" />
+</a>
+<br/>
+
+  <!-- Frontend & Mobile -->
+
+<b>Frontend & Mobile</b><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite,expo&theme=dark" />
+</a>
+<br/>
+
+  <!-- DevOps, Testing & Security -->
+
+<b>DevOps, Testing & Security</b><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,openshift,terraform,ansible,jenkins,gitlab,githubactions,circleci,sentry,vitest,selenium,playwright,linux,bash,grafana,prometheus,splunk&theme=dark" />
+</a>
+
 </div>
 
 ---
