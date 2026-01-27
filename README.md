@@ -55,10 +55,14 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <!-- Skill Icons: Add or remove skills from the list below -->
-  <!-- Check https://skillicons.dev/ for valid skill names -->
+  <!-- Cloud & Infrastructure -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,docker,git,github,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,ubuntu,docker,kubernetes,openshift,terraform,ansible,jenkins,gitlab,circleci&theme=dark" />
+  </a>
+  <br/>
+  <!-- Languages & Frameworks -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,django,flask,ruby,rails,java,spring,go,php,html,css,bash,mysql,postgres,redis,kafka,elasticsearch,grafana,prometheus,splunk&theme=dark" />
   </a>
 </div>
 
