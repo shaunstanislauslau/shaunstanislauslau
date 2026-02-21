@@ -320,8 +320,8 @@
 | Monitor | Spec |
 |---|---|
 | **ASUS ROG Swift OLED PG32UCDM** | 32" 4K 240Hz OLED (Gen 3) |
-| **27" QHD Monitor** | 2560×1440 |
-| **24" FHD Monitor** | 1920×1080 |
+| **Gigabyte M27Q** | 27" QHD 2560×1440 170Hz IPS |
+| **BenQ ZOWIE XL2456K** | 24.5" FHD 1920×1080 240Hz — Esports |
 
 </details>
 
