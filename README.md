@@ -30,7 +30,11 @@
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [The Future Is in My Terminal: How Warp Supercharged My MacBook Workflow](https://shaunstanislaus.medium.com/the-future-is-in-my-terminal-how-warp-supercharged-my-macbook-workflow-0df00bdf97c8?source=rss-9a426d149051------2) — *Apr 24, 2025*
+- [Navigating the IT Landscape: Lessons from 17 Years in SRE, Digital Transformation, and Beyond](https://shaunstanislaus.medium.com/navigating-the-it-landscape-lessons-from-17-years-in-sre-digital-transformation-and-beyond-9b01b55f179c?source=rss-9a426d149051------2) — *Aug 28, 2024*
+- [Fixes for Big Sur’s Homebrew](https://shaunstanislaus.medium.com/fixes-for-big-surs-homebrew-69137f848eb8?source=rss-9a426d149051------2) — *Dec 16, 2020*
+- [Installing MongoDB on Catalina](https://shaunstanislaus.medium.com/installing-mongodb-on-catalina-78bcb0936121?source=rss-9a426d149051------2) — *May 30, 2020*
+- [Trick to Copy Local Gems update upgrading Ruby](https://shaunstanislaus.medium.com/trick-to-copy-local-gems-update-upgrading-ruby-fc87a7d64240?source=rss-9a426d149051------2) — *Nov 03, 2019*<!-- BLOG-POST-LIST:END -->
 
 ---
 
