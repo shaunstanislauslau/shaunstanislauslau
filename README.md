@@ -349,6 +349,8 @@
 | **Logitech G903** | Wireless gaming mouse |
 | **Logitech G502** | Wired/wireless gaming mouse |
 | **Pulsar X2 Superglide Pro** | Ultra-lightweight gaming mouse |
+| **BenQ ScreenBar Plus** | Monitor light bar |
+| **Blue Yeti** | USB condenser microphone |
 
 </details>
 
@@ -371,6 +373,21 @@
 |---|---|
 | **Sony Bravia 88"** | Android TV — Living room |
 | **Nakamichi Dragon** | Soundbar paired with Sony Bravia |
+
+</details>
+
+<details>
+<summary><b>🎮 Gaming</b></summary>
+<br/>
+
+| Gear | Details |
+|---|---|
+| **PlayStation 5** | Sony PS5 |
+| **Xbox Series X** | Microsoft |
+| **Nintendo Switch** | Hybrid console |
+| **Fanatec ClubSport DD+ (Direct Drive)** | Sim racing wheel base |
+| **Fanatec ClubSport Steering Wheel Formula V2.5 X** | Formula-style wheel |
+| **Fanatec ClubSport Pedals V3** | Load cell pedals |
 
 </details>
 
