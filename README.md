@@ -351,6 +351,7 @@
 | **Pulsar X2 Superglide Pro** | Ultra-lightweight gaming mouse |
 | **BenQ ScreenBar Plus** | Monitor light bar |
 | **Blue Yeti** | USB condenser microphone |
+| **Herman Miller Aeron** | Ergonomic office chair |
 
 </details>
 
