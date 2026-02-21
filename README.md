@@ -353,6 +353,17 @@
 </details>
 
 <details>
+<summary><b>🌐 Networking</b></summary>
+<br/>
+
+| Device | Details |
+|---|---|
+| **ASUS ROG Rapture GT-BE98** | Wi-Fi 7 Quad-Band Gaming Router |
+| **ASUS ROG Rapture GT-AX11000** | Wi-Fi 6 Tri-Band Gaming Router |
+
+</details>
+
+<details>
 <summary><b>📺 Entertainment</b></summary>
 <br/>
 
