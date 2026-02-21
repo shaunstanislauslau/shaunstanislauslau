@@ -274,6 +274,111 @@
 
 ---
 
+### 🖥️ Hardware & Gear
+
+<details>
+<summary><b>🏗️ Desktop — Main Workstation</b></summary>
+<br/>
+
+| Component | Spec |
+|---|---|
+| **CPU** | AMD Ryzen 9 9950X3D (16-Core / 32-Thread) |
+| **GPU** | ASUS Astral GeForce RTX 5090 32GB |
+| **Motherboard** | ASUS ROG Crosshair X870E Hero |
+| **RAM** | G.Skill Trident Z5 128GB DDR5 |
+| **Storage (NVMe)** | Samsung 990 PRO 2TB + Samsung 960 EVO 1TB |
+| **Storage (HDD)** | Seagate IronWolf 12TB |
+| **OS** | Dual Boot — Ubuntu 24.04 LTS / Windows 11 Pro |
+
+</details>
+
+<details>
+<summary><b>💻 Laptops</b></summary>
+<br/>
+
+| Device | Specs |
+|---|---|
+| **Apple MacBook Pro** | M1 Max (10-core CPU / 32-core GPU), 64GB RAM, 4TB SSD |
+| **ASUS ROG Zephyrus GX501** | Dual Boot — Ubuntu / Windows 11 Pro |
+
+</details>
+
+<details>
+<summary><b>🗄️ NAS & Storage</b></summary>
+<br/>
+
+| Device | Details |
+|---|---|
+| **Asustor AS5402T** | 2-Bay NAS with Seagate IronWolf drives |
+
+</details>
+
+<details>
+<summary><b>🖥️ Monitors</b></summary>
+<br/>
+
+| Monitor | Spec |
+|---|---|
+| **ASUS ROG Swift OLED PG32UCDM** | 32" 4K 240Hz OLED (Gen 3) |
+| **27" QHD Monitor** | 2560×1440 |
+| **24" FHD Monitor** | 1920×1080 |
+
+</details>
+
+<details>
+<summary><b>🎧 Audio</b></summary>
+<br/>
+
+| Gear | Details |
+|---|---|
+| **Beyerdynamic DT 1990 Pro** | Open-back reference headphones |
+| **Schiit Modi + Magni** | DAC/Amp stack |
+| **Nakamichi Shockwafe 9.2.4** | Soundbar — Desktop setup |
+| **Nakamichi Dragon** | Soundbar — Living room |
+| **Logitech Z906** | 5.1 surround speaker system |
+| **Genelec RAW** | Studio monitors |
+
+</details>
+
+<details>
+<summary><b>🖱️ Peripherals</b></summary>
+<br/>
+
+| Gear | Details |
+|---|---|
+| **Logitech G903** | Wireless gaming mouse |
+| **Logitech G502** | Wired/wireless gaming mouse |
+| **Pulsar X2 Superglide Pro** | Ultra-lightweight gaming mouse |
+
+</details>
+
+<details>
+<summary><b>📺 Entertainment</b></summary>
+<br/>
+
+| Gear | Details |
+|---|---|
+| **Sony Bravia 88"** | Android TV — Living room |
+| **Nakamichi Dragon** | Soundbar paired with Sony Bravia |
+
+</details>
+
+<details>
+<summary><b>📱 Mobile Devices</b></summary>
+<br/>
+
+| Device | Details |
+|---|---|
+| **iPhone 13 Pro Max** | iOS |
+| **Huawei P50 Pro** | HarmonyOS |
+| **Xiaomi 15 Ultra** | Android |
+| **POCO F5 Pro** | Android |
+| **POCO F3** | Android |
+
+</details>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
