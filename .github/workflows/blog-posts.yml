@@ -1,0 +1,22 @@
+name: Latest Blog Posts
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@shaunstanislaus,https://shaunstanislaus.substack.com/feed"
+          max_post_count: 5
+          template: "$newline- [$title]($url) — *$date*"
+          date_format: "mmm dd, yyyy"
+          commit_message: "Updated README with latest blog posts"

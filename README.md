@@ -1,8 +1,3 @@
-<!--
-  Hi there! 👋 This is a generated GitHub Profile README.
-  To make this work for you, please replace the placeholders (e.g., [YOUR_ROLE_1]) with your actual details.
--->
-
 <div align="center">
 
   <!-- Animated Typing Header -->
@@ -23,9 +18,6 @@
     </a>
     <a href="https://medium.com/@shaunstanislaus">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-    <a href="https://[YOUR_PORTFOLIO_URL]">
-      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
     </a>
     <a href="https://twitter.com/shaunstanislaus">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -416,7 +408,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaunstanislauslau&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
   </a>
-  
+
   <!-- GitHub Readme Streak Stats -->
   <a href="https://git.io/streak-stats">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunstanislauslau&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
