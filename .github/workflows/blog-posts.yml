@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@shaunstanislaus,https://shaunstanislaus.substack.com/feed"
+          feed_list: "https://medium.com/feed/@shaunstanislaus"
           max_post_count: 5
           template: "$newline- [$title]($url) — *$date*"
           date_format: "mmm dd, yyyy"
