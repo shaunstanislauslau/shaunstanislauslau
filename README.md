@@ -367,6 +367,7 @@
 | **Insta360 X6** | Camera |
 | **Insta360 ONE X** | Camera |
 | **Insta360 ONE R** | Camera |
+| **DJI Mini 3 Pro** | Drone |
 
 </details>
 
