@@ -342,6 +342,11 @@
 
 | Gear | Details |
 |---|---|
+| **Logitech G PRO X2 SUPERSTRIKE** | Primary mouse — RTX 5090 desktop |
+| **Logitech MX Anywhere 3** | MacBook / travel mouse |
+| **Logitech MX Master (1st generation)** | Productivity mouse |
+| **SteelSeries Rival 100 Optical** | Optical gaming mouse |
+| **ASUS ROG Strix Impact** | Gaming mouse |
 | **Logitech G903** | Wireless gaming mouse |
 | **Logitech G502** | Wired/wireless gaming mouse |
 | **Pulsar X2 Superglide Pro** | Ultra-lightweight gaming mouse |
