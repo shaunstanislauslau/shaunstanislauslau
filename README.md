@@ -357,6 +357,20 @@
 </details>
 
 <details>
+<summary><b>📷 Camera & Recording Gear</b></summary>
+<br/>
+
+| Gear | Details |
+|---|---|
+| **Insta360 Mic** | Microphone |
+| **Insta360 Luna** | Camera |
+| **Insta360 X6** | Camera |
+| **Insta360 ONE X** | Camera |
+| **Insta360 ONE R** | Camera |
+
+</details>
+
+<details>
 <summary><b>🌐 Networking</b></summary>
 <br/>
 
